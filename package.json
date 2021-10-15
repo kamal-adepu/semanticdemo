@@ -1,0 +1,19 @@
+{
+  "name": "semanticdemo",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kamal-adepu/semanticdemo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kamal-adepu/semanticdemo/issues"
+  },
+  "homepage": "https://github.com/kamal-adepu/semanticdemo#readme"
+}
